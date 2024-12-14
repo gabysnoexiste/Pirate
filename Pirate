@@ -1,0 +1,6 @@
+when green flag clicked
+set [Health v] to [100]
+set [Score v] to [0]
+set [HasTreasure v] to [false]
+say [You are a pirate! Find the lost treasure.] for (2) secs
+say [Choose the path: 1 - Left / 2 - Right] for (2) secs
